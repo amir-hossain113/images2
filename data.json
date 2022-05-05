@@ -1,5 +1,6 @@
 [
   {
+    "_id": 1,
     "name": "Apple",
     "description": "Apples are the ideal fruit to eat at any time, having a positive role in the achievement of nourish balance. Their skin may be green, yellow or reddish, and the meat taste ranges from a bitter to sweet flavour. It is one of the most consumed fruit in the world. There is a great amount of varieties.",
     "price": 20,
@@ -8,6 +9,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/apple.jpg"
   },
   {
+    "_id": 2,
     "name": "Banana",
     "description": "The banana is a lengthy yellow fruit, found in the market in groups of three to twenty fruits, similar to a triangular cucumber, oblong and normally yellow. Its flavour is more or less sweet, depending on the variety.",
     "price": 10,
@@ -16,6 +18,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/banana.jpg"
   },
   {
+    "_id": 3,
     "name": "Cherry",
     "description": "Cherries are small stone fruits, generally averaging 2 to 4 centimeters in diameter, and have a round, oval, ovate, to cordate shape, attached to slender, pliable, and fibrous green to brown stems.",
     "price": 50,
@@ -24,6 +27,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/cherry.jpg"
   },
   {
+    "_id": 4,
     "name": "Coconut",
     "description": "Coconut is a round and elongate fruit of white, fibrous and oily meat covered by a thick, brown and hairy shell. Coconuts are surrounded by a fibrous kernel, inside which is a white meat called copra. When the fruit is still tender it yields a milky fluid that is commonly used as basic food in some zones.",
     "price": 30,
@@ -32,6 +36,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/coconut.jpg"
   },
   {
+    "_id": 5,
     "name": "Dragon",
     "description": "Dragon fruit may look exotic, but its flavors are similar to other fruits. Its taste has been described as a slightly sweet cross between a kiwi and a pear. Dragon fruit is a tropical fruit native to Mexico and Central America. Its taste is like a combination of a kiwi and a pear.",
     "price": 100,
@@ -40,6 +45,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/dragon.jpg"
   },
   {
+    "_id": 6,
     "name": "Guaba",
     "description": "The fruits are round to pear-shaped and measure up to 7.6 cm in diameter; their pulp contains many small hard seeds (more abundant in wild forms than in cultivated varieties). The fruit has a yellow skin and white, yellow, or pink flesh. The musky, at times pungent, odour of the sweet pulp is not always appreciated.",
     "price": 15,
@@ -48,6 +54,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/guaba.jpg"
   },
   {
+    "_id": 7,
     "name": "Jackfruit",
     "description": "Jackfruit is a popular fruit in Bangladesh. The pulp of the ripe fruit is eaten fresh and sometime it is preserved in syrup or dried. The juicy flesh around the seeds has normally a pungent odour and is sweet or acidic. The large seeds are boiled and roasted before use.",
     "price": 70,
@@ -56,6 +63,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/jackfruit.jpg"
   },
   {
+    "_id": 8,
     "name": "Litchi",
     "description": "The fruits are oval to round, strawberry-red in colour, and about 25 mm (1 inch) in diameter. The brittle outer covering encloses a translucent white fleshy aril and one large seed. Ripe fruits on a lychee tree (Litchi chinensis).",
     "price": 40,
@@ -64,6 +72,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/litchi.jpg"
   },
   {
+    "_id": 9,
     "name": "Mango",
     "description": "The fruit varies greatly in size and character. Its form is oval, round, heart-shaped, kidney-shaped, or long and slender. The smallest mangoes are no larger than plums, while others may weigh 1.8 to 2.3 kg (4 to 5 pounds). Some varieties are vividly coloured with shades of red and yellow, while others are dull green.",
     "price": 35,
@@ -72,6 +81,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/mango.jpg"
   },
   {
+    "_id": 10,
     "name": "Orange",
     "description": "The orange is a usually round or oval citrus; its rind and flesh are generally orange, except the varieties of red pulp. The edible part of the orange is the flesh, consumed in fresh or in juice. The orange is also used to make stewed fruit, jams, for consumption as dehydrated fruit, etc.",
     "price": 25,
@@ -80,6 +90,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/orange.jpg"
   },
   {
+    "_id": 11,
     "name": "Papaya",
     "description": "Papaya is a tropical fruit, having oval or pear shape, measuring between 10 and 20cm and usually weighing between 500 and 1,000g, although it may even weigh up to 5kg. It is a berry of thin skin, of a green yellowish and orange colour. The pulp is of a red orange or yellow colour, sweet and very juicy.",
     "price": 45,
@@ -88,6 +99,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/papaya.jpg"
   },
   {
+    "_id": 12,
     "name": "Pineapple",
     "description": "Pineapples have yellow or white pulp, fleshy, aromatic, juicy and sweet. In the fruit there is a fibrous axis that extends from the crown to the pedicle. Mature pineapples have a very singular fragrance, a beautiful colour and pleasant bittersweet taste.",
     "price": 60,
@@ -96,6 +108,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/pineapple.jpg"
   },
   {
+    "_id": 13,
     "name": "Strawberry",
     "description": "Strawberries are soft, sweet, bright red berries. They're also delicious. Strawberries have tiny edible seeds, which grow all over their surface. When ripe, strawberries smell wonderful and taste even better.",
     "price": 80,
@@ -104,6 +117,7 @@
     "img": "https://raw.githubusercontent.com/amir-hossain113/images2/main/images2/strawberry.jpg"
   },
   {
+    "_id": 14,
     "name": "Watermelon",
     "description": "watermelon, (Citrullus lanatus), succulent fruit and vinelike plant of the gourd family (Cucurbitaceae), native to tropical Africa and cultivated around the world. The fruit contains vitamin A and some vitamin C and is usually eaten raw. The rind is sometimes preserved as a pickle.",
     "price": 75,
